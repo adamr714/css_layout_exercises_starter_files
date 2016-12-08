@@ -1,1 +1,18 @@
+/*nav {
+	display: fixed
+	background-color: grey;
+	text-align: left;
+	height: 50px;
+}*/
 
+
+nav {
+  padding-top: 10px;
+  padding-right: 10px;
+  background-color: grey;
+  text-align: left;
+  position: fixed;
+  height: 50px;
+  width: 100%;
+  display: inline-block;
+}
